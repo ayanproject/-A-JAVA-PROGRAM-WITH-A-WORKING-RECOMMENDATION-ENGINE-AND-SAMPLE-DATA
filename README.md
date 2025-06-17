@@ -50,6 +50,6 @@ This project demonstrates how recommendation systems can enhance user engagement
 In conclusion, this Java-based recommendation engine using Apache Mahout showcases how machine learning techniques can be effectively implemented in real-world applications. It offers a practical example for developers interested in data science, personalization engines, and full-stack application design.
 
 ---
-
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/03df1ab6-f87a-42b4-9b44-14bbdfd548b4)
 
 
