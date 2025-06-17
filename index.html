@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Product Recommendation System</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+    <div class="container">
+        <h1>📦 Product Recommender</h1>
+
+        <div class="input-box">
+            <input type="number" id="userId" placeholder="Enter User ID">
+            <button onclick="getRecommendations()">Get Recommendations</button>
+        </div>
+
+        <div id="result">
+            <h2>Recommended Products</h2>
+            <ul id="recommendationList"></ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
